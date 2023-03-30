@@ -37,6 +37,7 @@ body{
     padding: 0;
     min-height: auto;
     flex-wrap: wrap;
+    margin-bottom: 50px;
 
 }
 .carou{
@@ -82,8 +83,8 @@ flex-direction: column;}
 
 .video{
     margin: auto;
-    margin-left: 170px;
-    margin-right: 400px;
+    margin-left: 0px;
+    margin-right: 90%;
     padding-top: 0px;
     width: 300px;
     height:250px;
